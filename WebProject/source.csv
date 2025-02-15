@@ -1,0 +1,182 @@
+country,energyConsumption,ISO3,latitude,longitude,energyLevel
+Qatar,226847.66,QAT,25.2769,51.52,high
+Iceland,167421.55,ISL,64.9631,-19.0208,high
+Bahrain,161111.2,BHR,26.0667,50.5577,high
+Singapore,160276.98,SGP,1.3521,103.8198,high
+United Arab Emirates,149830.33,ARE,24.4539,54.3773,high
+Trinidad and Tobago,106746.78,TTO,10.66,-61.508,high
+Brunei,103268.1,BRN,4.9031,114.9398,high
+Kuwait,101647.75,KWT,29.3759,47.9774,high
+Norway,101031.67,NOR,59.9139,10.7522,high
+Canada,99916.4,CAN,56.1304,-106.3468,high
+Oman,92605.32,OMN,23.61,58.59,high
+Saudi Arabia,87198.66,SAU,24.7136,46.6753,high
+United States,77027.836,USA,38.8951,-77.0364,high
+Malta,74324.46,MLT,35.8997,14.5146,high
+Turkmenistan,68284.93,TKM,37.9601,58.3261,high
+South Korea,66698.02,KOR,37.5665,126.978,high
+Australia,63256.88,AUS,-25.2744,133.7751,high
+Russia,60175.367,RUS,55.7558,37.6173,high
+Finland,59896.703,FIN,61.9241,25.7482,high
+Luxembourg,57341.914,LUX,49.6117,6.1319,high
+Sweden,56303.94,SWE,59.3293,18.0686,high
+Belgium,54942.24,BEL,50.8503,4.3517,high
+Netherlands,54177.977,NLD,52.3676,4.9041,high
+Seychelles,45933.664,SYC,-4.6167,55.45,high
+New Zealand,45740.266,NZL,-41.2865,174.7762,high
+Austria,42952.613,AUT,47.5162,14.5501,high
+Kazakhstan,42234.96,KAZ,51.1694,71.4491,high
+Estonia,41967.047,EST,58.5953,25.0136,high
+Czechia,40339.277,CZE,49.8175,15.472,high
+Iran,39598.59,IRN,35.6892,51.389,high
+Japan,39209.965,JPN,35.6895,139.6917,high
+Malaysia,38920.656,MYS,3.139,101.6869,high
+Germany,38052.27,DEU,51.1657,10.4515,high
+France,37164.297,FRA,46.6034,1.8883,high
+Switzerland,35768.574,CHE,46.9481,7.4474,high
+Ireland,35746.33,IRL,53.3331,-6.2489,high
+Bahamas,35447.574,BHS,25.0343,-77.3963,high
+Slovenia,34169.97,SVN,46.0511,14.5051,high
+Israel,33730.26,ISR,31.7683,35.2137,high
+China,33266.83,CHN,35.8617,104.1954,high
+Spain,33099.23,ESP,40.4168,-3.7038,high
+Denmark,33078.332,DNK,56.2639,9.5018,high
+Slovakia,32204.732,SVK,48.1486,17.1077,high
+Belarus,31170.637,BLR,53.7098,27.9534,high
+Bulgaria,29796.03,BGR,42.7339,25.4858,medium-high
+Greece,29510.96,GRC,39.0742,21.8243,medium-high
+Antigua and Barbuda,29464.332,ATG,17.0608,-61.7964,medium-high
+United Kingdom,28501.387,GBR,51.5074,-0.1278,medium-high
+Libya,28270.334,LBY,32.8872,13.1913,medium-high
+Italy,28051.86,ITA,41.9028,12.4964,medium-high
+Poland,27871.273,POL,52.2298,21.0122,medium-high
+Bhutan,27785.357,BTN,27.4728,89.639,medium-high
+Serbia,27640.852,SRB,44.7866,20.4489,medium-high
+Panama,27067.068,PAN,8.9833,-79.5167,medium-high
+Portugal,25709.23,PRT,38.7169,-9.1399,medium-high
+Chile,25678.967,CHL,-35.6751,-71.4385,medium-high
+Cyprus,25469.945,CYP,35.1264,33.4299,medium-high
+Croatia,25236.2,HRV,45.1,16.3776,medium-high
+Hungary,24904.19,HUN,47.1625,19.5033,medium-high
+Lithuania,24397.867,LTU,54.6872,25.2797,medium-high
+Venezuela,24383.117,VEN,10.4806,-66.9036,medium-high
+Barbados,23025.998,BRB,13.0975,-59.6167,medium-high
+Bosnia and Herzegovina,23013.498,BIH,43.9159,17.6791,medium-high
+Turkey,22668.203,TUR,39.9334,32.8597,medium-high
+Mongolia,22407.674,MNG,47.8864,106.9057,medium-high
+South Africa,22313.898,ZAF,-25.7461,28.1881,medium-high
+Argentina,22277.793,ARG,-38.4161,-63.6167,medium-high
+Latvia,21982.455,LVA,56.9496,24.1052,medium-high
+Azerbaijan,21881.906,AZE,40.1431,47.5769,medium-high
+Nauru,21609.617,NRU,-0.5477,166.9209,medium-high
+Saint Kitts and Nevis,20900.703,KNA,17.3026,-62.7177,medium-high
+Georgia,20834.768,GEO,42.3154,43.3569,medium-high
+Suriname,20284.996,SUR,5.852,-55.2038,medium-high
+Mauritius,19724.719,MUS,-20.16,57.5012,medium-high
+Thailand,19370.299,THA,13.7563,100.5018,medium
+Montenegro,18940.291,MNE,42.4304,19.2594,medium
+Laos,18847.086,LAO,17.9757,102.6331,medium
+Lebanon,18831.662,LBN,33.8938,35.5018,medium
+Uruguay,18316.926,URY,-34.9011,-56.1645,medium
+Mexico,18279.035,MEX,19.4326,-99.1332,medium
+Romania,17818.607,ROU,44.4268,26.1025,medium
+Brazil,17806.445,BRA,-14.235,-51.9253,medium
+Armenia,17684.547,ARM,40.0691,45.0382,medium
+Maldives,17669.365,MDV,4.1755,73.5093,medium
+Ukraine,16781.748,UKR,50.4501,30.5234,medium
+Uzbekistan,16622.736,UZB,41.2995,69.2401,medium
+North Macedonia,16076.155,MKD,41.9981,21.4254,medium
+Moldova,16006.373,MDA,47.0105,28.8638,medium
+Paraguay,15782.273,PRY,-25.2637,-57.5759,medium
+Algeria,15458.39,DZA,28.0339,1.6596,medium
+Iraq,15332.978,IRQ,33.3152,44.3661,medium
+Albania,14100.432,ALB,41.1533,20.1683,medium
+Vietnam,13744.149,VNM,21.0285,105.8544,medium
+Guyana,13690.034,GUY,6.8013,-58.1551,medium
+Saint Lucia,13599.725,LCA,14.0101,-60.9904,medium
+Ecuador,12880.897,ECU,-1.8312,-78.1834,medium
+Equatorial Guinea,12399.339,GNQ,3.7523,8.7741,medium
+Jamaica,12235.784,JAM,18.1096,-77.2975,medium
+Colombia,12028.095,COL,4.5709,-74.2973,medium
+Costa Rica,11957.598,CRI,9.7489,-83.7534,medium
+Dominica,10547.773,DMA,15.301,-61.387,medium
+Indonesia,10116.714,IDN,-0.7893,113.9213,medium
+Peru,10008.626,PER,-12.0464,-77.0428,medium
+Dominican Republic,9987.583,DOM,18.7357,-70.1627,medium-low
+Egypt,9703.661,EGY,26.8206,30.8025,medium-low
+Tunisia,9524.1045,TUN,36.8065,10.1815,medium-low
+Grenada,9432.062,GRD,12.0564,-61.7485,medium-low
+Botswana,9385.398,BWA,-22.3285,24.6849,medium-low
+Kyrgyzstan,9274.61,KGZ,42.8746,74.5698,medium-low
+Cuba,9229.538,CUB,21.5218,-79.3728,medium-low
+Fiji,9222.848,FJI,-18.1248,178.4501,medium-low
+Jordan,9183.148,JOR,31.9516,35.923,medium-low
+Namibia,8748.273,NAM,-22.5597,17.0832,medium-low
+Saint Vincent and the Grenadines,8245.4375,VCT,13.16,-61.2248,medium-low
+Gabon,8009.644,GAB,0.3901,9.4544,medium-low
+Tajikistan,7674.914,TJK,38.5367,68.7791,medium-low
+India,7586.1997,IND,20.5937,78.9629,medium-low
+Belize,7437.5713,BLZ,17.5046,-88.1962,medium-low
+Samoa,7302.089,WSM,-13.8333,-171.75,medium-low
+Morocco,7169.151,MAR,33.9716,-6.8498,medium-low
+El Salvador,7076.433,SLV,13.7942,-88.8965,medium-low
+Bolivia,7062.148,BOL,-16.2902,-64.9237,medium-low
+Tonga,6698.5938,TON,-21.1343,-175.2018,medium-low
+Eswatini,5981.1123,SWZ,-26.3054,31.1367,medium-low
+Guatemala,5712.118,GTM,15.7835,-90.2308,medium-low
+Syria,5507.217,SYR,33.5138,36.2765,medium-low
+Philippines,5191.9824,PHL,14.5995,120.9842,medium-low
+Honduras,5086.9336,HND,15.2,-86.2419,medium-low
+Sri Lanka,4535.9824,LKA,6.9271,79.8612,medium-low
+Nicaragua,4265.2705,NIC,12.1364,-86.2514,medium-low
+Cambodia,4035.0813,KHM,12.5657,104.991,medium-low
+Mauritania,3988.5325,MRT,18.0735,-15.9582,medium-low
+Pakistan,3895.0408,PAK,33.6844,73.0479,medium-low
+Ghana,3483.3625,GHA,7.9465,-1.0232,medium-low
+Zambia,3418.863,ZMB,-15.3875,28.3228,medium-low
+Sao Tome and Principe,3310.2437,STP,0.3365,6.7273,medium-low
+Myanmar,3064.8484,MMR,19.7516,96.1289,medium-low
+Vanuatu,2957.4438,VUT,-17.7333,168.3167,medium-low
+Bangladesh,2940.0205,BGD,23.685,90.3563,medium-low
+Angola,2791.3318,AGO,-11.2027,17.8739,medium-low
+Djibouti,2785.0718,DJI,11.5721,43.1456,medium-low
+Zimbabwe,2635.1536,ZWE,-17.8292,31.0522,medium-low
+Nigeria,2547.9543,NGA,9.0579,7.4951,medium-low
+Senegal,2505.209,SEN,14.6928,-17.4467,medium-low
+Benin,2484.8179,BEN,9.3077,2.3158,medium-low
+Kiribati,2446.6985,KIR,1.329,172.979,medium-low
+Congo,2348.0115,COG,-0.228,15.8277,low
+Sudan,2317.3928,SDN,15.5007,32.5599,low
+Mozambique,2241.226,MOZ,-25.9692,32.5732,low
+Lesotho,2132.8137,LSO,-29.3167,27.4833,low
+Papua New Guinea,2123.4978,PNG,-9.4438,147.1803,low
+Kenya,1952.6938,KEN,-1.2864,36.8172,low
+Solomon Islands,1892.1313,SLB,-9.4333,159.95,low
+Comoros,1633.7837,COM,-11.6898,43.2544,low
+Nepal,1607.6346,NPL,27.7172,85.324,low
+Cameroon,1593.6196,CMR,7.3697,12.3547,low
+Guinea,1281.525,GIN,9.9456,-9.6966,low
+Mali,1168.5671,MLI,12.6392,-8.0029,low
+Togo,1115.7043,TGO,6.1319,1.2228,low
+Yemen,1080.0393,YEM,15.3694,44.191,low
+Liberia,1064.6156,LBR,6.3005,-10.7969,low
+Haiti,1030.8809,HTI,18.9712,-72.2852,low
+Gambia,931.2733,GMB,13.4531,-16.5775,low
+Eritrea,914.4952,ERI,15.3229,38.9251,low
+Tanzania,907.40393,TZA,-6.7924,39.2083,low
+Burkina Faso,904.72614,BFA,12.2383,-1.5616,low
+Ethiopia,871.5845,ETH,9.145,40.4897,low
+Uganda,766.84607,UGA,0.3476,32.5825,low
+South Sudan,731.9888,SSD,4.8594,31.5713,low
+Guinea-Bissau,677.3281,GNB,11.8592,-15.5956,low
+Afghanistan,676.6956,AFG,33.9391,67.71,low
+Madagascar,507.64365,MDG,-18.8792,47.5079,low
+Sierra Leone,492.59775,SLE,8.4657,-13.2317,low
+Rwanda,471.35483,RWA,-1.9501,30.0588,low
+Malawi,464.98254,MWI,-13.9626,33.7741,low
+Niger,409.75702,NER,13.5127,2.1124,low
+Chad,361.1612,TCD,15.4542,18.7322,low
+Burundi,293.8886,BDI,-3.3614,29.3586,low
+Central African Republic,286.1319,CAF,6.6111,20.9394,low
+Somalia,217.40976,SOM,2.0469,45.3182,low
+Tuvalu,0,TUV,-8.5172,179.22,low

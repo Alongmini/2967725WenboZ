@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Energy Consumption Map</title>
+
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css"
+        type="text/css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+
+<body style="background-color: #121212; color: #ffffff;">
+
+    <div class="header" style="background-color: #1f1f1f; color: #ffffff;">
+        <div class="header-content" style="display: flex; align-items: center;">
+            <span>World Energy Consumption Map</span>
+        </div>
+
+        <label for="energy-level-filter">Energy Level:</label>
+        <select class="filter-container" id="energy-level-filter" onchange="filterByEnergyLevel()"
+            style="background-color: #1f1f1f; color: #ffffff;font-size: 20px;">
+            <option value="all">All</option>
+            <option value="high">High</option>
+            <option value="medium-high">Medium-High</option>
+            <option value="medium">Medium</option>
+            <option value="medium-low">Medium-Low</option>
+            <option value="low">Low</option>
+        </select>
+
+        <button onclick="showDataAnalysis()"
+            style="background-color: #1f1f1f; color: #ffffff; font-size: 20px; margin-left: 20px;">Data
+            Analysis</button>
+    </div>
+
+    <div class="container">
+        <div class="main" style="background-color: #1f1f1f; color: #ffffff;">
+            <div id="map"></div>
+            <div id="geocoder" class="geocoder" style="position: absolute; top: 10px; right: 10px; z-index: 1;"></div>
+        </div>
+    </div>
+
+    <div id="data-analysis-modal" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: #ffffff; color: #000000; 
+    padding: 20px; border-radius: 10px; z-index: 1000;">
+        <div style="display: flex; justify-content: space-between;">
+            <div id="top10-chart" style="width: 45%; height: 300px;"></div>
+            <div id="bottom10-chart" style="width: 45%; height: 300px;"></div>
+        </div>
+        <div>
+            <button onclick="closeDataAnalysis()"
+                style="background-color: #1f1f1f; color: #ffffff; font-size: 20px; margin-top: 20px;">close</button>
+            <h2 style="right: 50px;">World Average:26170(KWh/person)</h2>
+        </div>
+    </div>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+    <script
+        src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js'></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
